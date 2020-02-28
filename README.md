@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install require npm package given in package.json
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-##Install require npm package given in package.json
 
 ### `npm start`
 
@@ -23,4 +23,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
